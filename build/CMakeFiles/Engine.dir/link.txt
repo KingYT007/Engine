@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Engine.dir/link.d CMakeFiles/Engine.dir/src/main.cpp.o -o Engine  libs/GLFW/src/libglfw3.a libs/glad/libglad.a /usr/lib/librt.a -lm -ldl

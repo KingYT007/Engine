@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/krbll/Engine/build/cmake_install.cmake",
+		"/home/krbll/Engine/build/libs/GLFW/cmake_install.cmake",
+		"/home/krbll/Engine/build/libs/GLFW/src/cmake_install.cmake",
+		"/home/krbll/Engine/build/libs/GLFW/docs/cmake_install.cmake",
+		"/home/krbll/Engine/build/libs/glad/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
